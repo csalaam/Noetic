@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    width: auto;
+    height: auto;
+    box-sizing: border-box;
+    font-family: "Afacad Flux", serif;
+    font-style: normal;
+    background-color:rgb(255, 202, 57);
+    background-image: url(pinksky.jpg)
+}
+
+header, h1 {
+    background-image: url(pinksky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    width: 100%;
+    text-align: left;
+    font-size: 96px;
+    color: rgb(255, 120, 57);
+    padding-left: 16px;
+}
