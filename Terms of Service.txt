@@ -1,6 +1,6 @@
 TERMS OF SERVICE FOR CASCADE DISCORD BOT
 Governing Jurisdiction: South Carolina, USA
-(Last Updated: 6/29/2025
+(Last Updated: 6/29/2025)
 
 1. Acceptance of Terms
 By adding Cascade ("Bot") to your Discord server or using its services within South Carolina, you agree to these Terms. Continued use constitutes binding acceptance under SC law (§ 36-1-201).
