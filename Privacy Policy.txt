@@ -1,0 +1,67 @@
+PRIVACY POLICY FOR CASCADE DISCORD BOT
+Governing Jurisdiction: South Carolina, USA
+(Last Updated: 6/29/2025)
+
+1. Introduction
+This Privacy Policy governs the data practices of Cascade ("Bot"), a general-purpose utility bot for Discord servers. By using Cascade, you consent to the practices described below, compliant with South Carolina law.
+
+2. Information Collected
+Cascade collects only non-personal, operational data:
+
+Server/Channel IDs: To store server-specific configurations (e.g., prefix settings, moderation roles).
+
+Command Usage: Anonymous logs of commands triggered (e.g., /weather, /poll) for functionality and debugging.
+
+User IDs: Temporarily cached during command execution (e.g., moderation actions) but not stored long-term.
+
+Explicitly Uncollected:
+
+Personal names, email addresses, IP addresses
+
+Private messages or voice data
+
+Payment or biometric information
+
+3. Legal Basis & Purpose (SC Compliance)
+Under SC Code § 37-20-110 (Consumer Privacy Code), data is processed to:
+
+Deliver bot functionality (e.g., saving server settings).
+
+Prevent abuse (e.g., spam command blocking).
+
+Comply with SC’s Computer Crime Act (§ 16-16-10).
+
+4. Data Storage & Security
+Storage Duration: Server/channel IDs retained until the Bot is removed; command logs deleted within 30 days.
+
+Protections: Industry-standard security measures aligned with SC’s Insurance Data Security Act (§ 38-99-10), including:
+
+Encrypted databases
+
+Restricted access to operational data
+
+Breach notification protocols
+
+Hosting: Data stored on U.S.-based servers (AWS/GCP).
+
+5. Data Sharing & Disclosure
+No sale, sharing, or third-party access occurs except:
+
+If required by SC law enforcement under valid legal process (§ 16-16-40).
+
+To protect rights/safety during emergencies (SC Tort Claims Act § 15-78-120).
+
+6. Your Rights (South Carolina)
+Access/Deletion: Request data deletion by removing Cascade from your server.
+
+Opt-Out: Disable specific features via Bot commands (e.g., logging).
+
+Minors: Cascade does not target users under 13 (SC Minor Online Privacy Protection § 63-20-50).
+
+7. Policy Updates
+Changes will be announced via the Bot’s official support server. Continued use implies acceptance.
+
+8. Contact
+For privacy concerns or SC-specific inquiries:
+
+Email: adnymphre@gmail.com
