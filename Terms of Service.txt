@@ -1,0 +1,47 @@
+TERMS OF SERVICE FOR CASCADE DISCORD BOT
+Governing Jurisdiction: South Carolina, USA
+(Last Updated: 6/29/2025
+
+1. Acceptance of Terms
+By adding Cascade ("Bot") to your Discord server or using its services within South Carolina, you agree to these Terms. Continued use constitutes binding acceptance under SC law (§ 36-1-201).
+
+2. Service Description
+Cascade provides general-purpose utilities (e.g., moderation, games, tools) within Discord servers. Features may change or discontinue without notice.
+
+3. User Obligations
+Compliance: You agree to comply with:
+
+Discord’s Terms and Guidelines.
+
+South Carolina laws, including the Computer Crime Act (§ 16-16-10 et seq.) (e.g., no hacking, spamming, or unauthorized data access via the Bot).
+
+Prohibited Uses: Illegal activities, harassment, or actions violating public policy in SC are strictly forbidden.
+
+4. Data Practices
+Collected Data: Server/channel IDs and configurations only. No personal identifiers (e.g., names, emails) are stored.
+
+SC Compliance: Data is managed per SC’s Insurance Data Security Act (§ 38-99-10) principles (confidentiality, breach protocols). Data is never sold or shared.
+
+5. Disclaimers (SC-Aligned)
+As-Is Service: The Bot is provided "as is" without warranties (express/implied), per SC Code § 36-2-316.
+
+No Affiliation: Not endorsed by Discord Inc.
+
+Uptime: Service interruptions may occur without liability.
+
+6. Liability Limitation
+Under SC Code § 15-3-530, the developer(s) shall not be liable for:
+
+Damages from Bot use (direct, indirect, or consequential).
+
+Data loss, bugs, or service disruptions.
+
+Misuse by server members or third parties.
+
+7. Modifications & Termination
+Terms may be updated; continued use implies acceptance.
+
+Access may be terminated for violations, per SC contract law (§ 36-1-208).
+
+8. Governing Law
+These Terms are governed by South Carolina law. Any disputes fall under exclusive jurisdiction of SC courts.
